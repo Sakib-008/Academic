@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1742599189 source:s:\academic porjects\structured programming\bookshop_management\functions.c
+	<stdio.h>
+	"header.h"
+
+1742599189 s:\academic porjects\structured programming\bookshop_management\header.h
+	<string.h>
+
+1742599189 source:s:\academic porjects\structured programming\bookshop_management\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
