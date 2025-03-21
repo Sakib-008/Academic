@@ -1,2 +1,2 @@
 # Academic
-Academic projects
+Academic stuffs
